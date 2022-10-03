@@ -1,0 +1,1 @@
+copy con file.txt > F6 > enter ----создать файл с ком стр
